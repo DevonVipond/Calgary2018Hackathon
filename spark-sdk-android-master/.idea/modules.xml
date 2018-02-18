@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudsdk/cloudsdk.iml" filepath="$PROJECT_DIR$/cloudsdk/cloudsdk.iml" />
+      <module fileurl="file://C:\Users\devon vipond\Desktop\2018hacks\spark-sdk-android-master\cloudsdk\cloudsdk.iml" filepath="C:\Users\devon vipond\Desktop\2018hacks\spark-sdk-android-master\cloudsdk\cloudsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example_app/example_app.iml" filepath="$PROJECT_DIR$/example_app/example_app.iml" />
+      <module fileurl="file://C:\Users\devon vipond\Desktop\2018hacks\spark-sdk-android-master\example_app\example_app.iml" filepath="C:\Users\devon vipond\Desktop\2018hacks\spark-sdk-android-master\example_app\example_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-sdk-android-master.iml" filepath="$PROJECT_DIR$/spark-sdk-android-master.iml" />
+    </modules>
+  </component>
+</project>
